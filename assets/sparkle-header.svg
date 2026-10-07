@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+<rect width="900" height="260" rx="30" fill="#fff0f7"/>
+<g fill="#f29bc0">
+<text x="70" y="70" font-size="30">✦</text><text x="180" y="150" font-size="20">✧</text><text x="300" y="65" font-size="24">⋆</text><text x="470" y="185" font-size="28">✦</text><text x="610" y="70" font-size="22">✧</text><text x="770" y="145" font-size="30">⋆</text>
+</g>
+<g fill="#e981ae">
+<text x="125" y="205" font-size="18">♡</text><text x="370" y="105" font-size="18">♡</text><text x="710" y="210" font-size="18">♡</text>
+</g>
+<g fill="#ffd0e1">
+<circle cx="55" cy="180" r="5"/><circle cx="240" cy="45" r="4"/><circle cx="410" cy="220" r="5"/><circle cx="540" cy="45" r="4"/><circle cx="820" cy="55" r="5"/><circle cx="850" cy="190" r="4"/>
+</g>
+<path d="M100 230 Q170 165 240 215 T390 205 T540 220 T700 190 T830 225" fill="none" stroke="#efabc7" stroke-width="3"/>
+<text x="450" y="125" text-anchor="middle" font-family="Georgia,serif" font-size="42" font-weight="bold" fill="#b84d7c">✨ hi, i'm Afaan ♡ ✨</text>
+<text x="450" y="160" text-anchor="middle" font-family="Georgia,serif" font-size="19" fill="#d4779f">a tiny pink corner of github 🌸</text>
+</svg>
