@@ -2,16 +2,15 @@
 
 <div align="center">
 
-<img src="./assets/flower-banner.svg" alt="pink floral banner">
+<img src="./assets/sparkle-header.svg" alt="sparkly pink header">
 
-# 🌷˚₊‧꒰ა ♡ ໒꒱ ‧₊˚🌷
-# Hi, I'm Afaan!
+### ✧ ˚₊‧꒰ა 🌸 ໒꒱ ‧₊˚ ✧
 
-### 💻 Computer Science Student · 🌱 Beginner Coder · 🎀 Professional Procrastinator
+💻 **Computer Science Student** · 🌱 **Beginner Coder** · 🎀 **Professional Procrastinator**
 
 *welcome to my little corner of github ♡*
 
-🌸 · 🌷 · 🩷 · 🎀 · 🌸 · 🌷 · 🩷
+✨ · 🌷 · 🩷 · 🎀 · ✦ · 🌸 · ✧
 
 </div>
 
@@ -40,7 +39,7 @@ I like making little things, learning how they work, breaking them by accident, 
 
 </div>
 
-## 🛠️ my little toolbox
+## ✨ my little toolbox
 
 <div align="center">
 
@@ -52,6 +51,12 @@ I like making little things, learning how they work, breaking them by accident, 
 </div>
 
 ---
+
+<div align="center">
+
+<img src="./assets/falling-petals.svg" alt="pink falling petals">
+
+</div>
 
 ## 🌱 currently growing...
 
@@ -130,7 +135,7 @@ because sometimes you just have an idea and *have to try it*
 
 <div align="center">
 
-<img src="./assets/flower-banner.svg" alt="pink flowers">
+<img src="./assets/sparkle-header.svg" alt="sparkles and flowers">
 
 ### 🩷 a tiny reminder
 
@@ -141,7 +146,7 @@ because sometimes you just have an idea and *have to try it*
 
 **learn → mess up → fix it → learn again**
 
-🌸 · 🌷 · 🩷 · 🎀 · 🌸 · 🌷 · 🩷
+✨ · 🌸 · ✧ · 🌷 · 🩷 · ✦ · 🎀
 
 ### thanks for visiting ♡
 
