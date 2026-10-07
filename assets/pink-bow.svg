@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 180">
+<rect width="500" height="180" rx="25" fill="#fff0f6"/>
+<path d="M250 88 C190 35 95 25 70 60 C50 90 115 125 225 105Z" fill="#f4a5c2" stroke="#c96892" stroke-width="4"/>
+<path d="M250 88 C310 35 405 25 430 60 C450 90 385 125 275 105Z" fill="#f4a5c2" stroke="#c96892" stroke-width="4"/>
+<circle cx="250" cy="96" r="32" fill="#e982ac" stroke="#c96892" stroke-width="4"/>
+<path d="M235 120 L185 165 L240 142 L250 165 L260 142 L315 165 L265 120Z" fill="#f4a5c2" stroke="#c96892" stroke-width="4"/>
+<text x="250" y="30" text-anchor="middle" font-family="Georgia,serif" font-size="18" fill="#b84d7c">made with ♡</text>
+</svg>
