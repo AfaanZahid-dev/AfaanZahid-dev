@@ -1,94 +1,151 @@
-<!-- hi 🌷 welcome to my little corner -->
+<!-- 🌸 Afaan's little corner 🌸 -->
 
 <div align="center">
 
-# 🌸˚₊‧꒰ა ♡ ໒꒱ ‧₊˚🌸
-# hey, i'm Afaan ♡
+<img src="./assets/flower-banner.svg" alt="pink floral banner">
 
-**computer science student · beginner coder · professional procrastinator**
+# 🌷˚₊‧꒰ა ♡ ໒꒱ ‧₊˚🌷
+# Hi, I'm Afaan!
 
-🌷 ⋆｡°✩ 🌷 ⋆｡°✩ 🌷 ⋆｡°✩ 🌷
+### 💻 Computer Science Student · 🌱 Beginner Coder · 🎀 Professional Procrastinator
 
-*welcome to my tiny corner of github <3*
+*welcome to my little corner of github ♡*
+
+🌸 · 🌷 · 🩷 · 🎀 · 🌸 · 🌷 · 🩷
 
 </div>
 
 ---
 
-<div align="center">
+## 🌸 a little about me
 
-### 🌷 about me 🌷
+I'm a **Computer Science student** slowly figuring out this whole coding thing.
 
-</div>
+I like making little things, learning how they work, breaking them by accident, and then being way too happy when I finally fix them. ♡
 
-hi hi ♡
+- 🌱 Currently learning **Python & programming fundamentals**
+- 💻 Exploring **Git, GitHub & software development**
+- 🧩 I like figuring out how things work
+- 🎮 I play games when I'm not coding
+- 🎧 Music + late nights + random ideas = dangerous combination
+- 🐣 Still a beginner, but getting better one commit at a time
 
-i'm **Afaan**, a computer science student slowly figuring out this whole coding thing.
-
-i'm still learning, still breaking things, and still googling things i probably should remember by now :')
-
-🌸 currently learning **python**  
-🌸 trying to get better at **programming**  
-🌸 learning my way around **git & github**  
-🌸 making little projects whenever an idea decides to appear  
-🌸 probably playing games when i should be studying
+> 🌷 *"Start small. Keep building. Let future me be impressed."*
 
 ---
 
 <div align="center">
 
-🌷 ─────────────── 🌷
-
-### 🩷 things i like 🩷
-
-`coding` · `games` · `music` · `late nights` · `random ideas`
-
-🌷 ─────────────── 🌷
+<img src="./assets/pink-bow.svg" width="420" alt="pink bow">
 
 </div>
 
-### 🌱 currently growing...
+## 🛠️ my little toolbox
 
-> 🐣 learning python  
-> 🌱 getting comfortable with programming  
-> 🌷 learning git properly  
-> 🌸 trying to build things instead of only watching tutorials  
-> 🦋 slowly becoming a better developer
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-f7c6d9?style=for-the-badge&logo=python&logoColor=8f3d61)
+![Git](https://img.shields.io/badge/Git-f4a5c2?style=for-the-badge&logo=git&logoColor=7a3150)
+![GitHub](https://img.shields.io/badge/GitHub-f8d8e6?style=for-the-badge&logo=github&logoColor=5d2942)
+![VS Code](https://img.shields.io/badge/VS%20Code-f3b5cd?style=for-the-badge&logo=visual-studio-code&logoColor=66304b)
+
+</div>
+
+---
+
+## 🌱 currently growing...
+
+<div align="center">
+
+| 🌷 | learning |
+|:---:|:---|
+| 🐍 | Python |
+| 🧠 | Programming fundamentals |
+| 🌸 | Git & GitHub |
+| 💻 | Building small projects |
+| 🦋 | Becoming a better developer |
+
+</div>
+
+---
+
+## ✨ little goals
+
+- [ ] 🐍 Get really comfortable with Python
+- [ ] 🌱 Build some genuinely useful projects
+- [ ] 💻 Learn web development
+- [ ] 🧠 Get better at problem solving
+- [ ] 🌸 Fill this profile with things I've actually made
+- [ ] 🎀 Look back one day and see how far I've come
 
 ---
 
 <div align="center">
 
-### 🌸 my little projects 🌸
+<img src="./assets/flower-divider.svg" alt="floral divider">
 
 </div>
 
-i don't have a huge collection yet.
+## 📌 my projects
 
-and that's okay ♡
+I don't have a giant portfolio yet — and honestly, that's okay.
 
-this page is going to grow with me — one tiny project, one stupid bug, and one **"OMG IT FINALLY WORKS"** at a time.
+This little section is going to grow as I learn.
 
-🌷 **coming soon...**
+### 🌱 coming soon...
+
+**🐣 tiny Python projects**  
+little programs made while learning
+
+**🌷 university projects**  
+things I build while surviving CS
+
+**🩷 random experiments**  
+because sometimes you just have an idea and *have to try it*
+
+---
+
+## 📊 my GitHub journey
+
+<div align="center">
+
+![Afaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfaanZahid-dev&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=b84d7c&icon_color=e982ac&text_color=8f5b70)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AfaanZahid-dev&layout=compact&hide_border=true&theme=transparent&title_color=b84d7c&text_color=8f5b70)
+
+</div>
+
+---
+
+## 🎀 outside the code
+
+🌸 **games**  
+🎧 **music**  
+💻 **tech**  
+🌙 **late-night ideas**  
+🧋 **doing things instead of sleeping**  
+🌷 **flowers, obviously**
 
 ---
 
 <div align="center">
 
-### 🩷 a tiny reminder 🩷
+<img src="./assets/flower-banner.svg" alt="pink flowers">
+
+### 🩷 a tiny reminder
 
 > *you don't have to be good at something  
 > before you're allowed to enjoy learning it.*
 
-🌸
+🌷
 
-`learn → mess up → fix it → learn again`
+**learn → mess up → fix it → learn again**
 
-🌷 ⋆｡°✩ 🌷 ⋆｡°✩ 🌷 ⋆｡°✩ 🌷
+🌸 · 🌷 · 🩷 · 🎀 · 🌸 · 🌷 · 🩷
 
-### thank you for visiting ♡
+### thanks for visiting ♡
 
-*stay a little, look around, and have a flower* 🌷
+*have a flower before you leave* 🌷
 
 🌸 🌷 🌸 🌷 🌸
 
