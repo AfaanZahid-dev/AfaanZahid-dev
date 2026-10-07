@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 160">
+<rect width="800" height="160" rx="24" fill="#fff7fb"/>
+<g stroke="#e9a0bd" stroke-width="3" fill="none">
+<path d="M40 140 Q100 70 150 120 T270 100 T390 120 T520 80 T650 120 T770 80"/>
+</g>
+<g fill="#f7b5cf" stroke="#d982a7" stroke-width="2">
+<path d="M90 78 C55 35 25 75 55 100 C25 125 65 150 90 115 C115 150 155 125 125 100 C155 75 125 35 90 78Z"/>
+<path d="M400 68 C365 25 335 65 365 90 C335 115 375 140 400 105 C425 140 465 115 435 90 C465 65 435 25 400 68Z"/>
+<path d="M690 78 C655 35 625 75 655 100 C625 125 665 150 690 115 C715 150 755 125 725 100 C755 75 725 35 690 78Z"/>
+</g>
+<text x="400" y="35" text-anchor="middle" font-family="Georgia,serif" font-size="20" fill="#b84d7c">♡ 🌸 keep growing, little by little 🌸 ♡</text>
+</svg>
