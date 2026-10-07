@@ -1,116 +1,81 @@
-<!-- 🌸 Afaan's little corner 🌸 -->
+<!-- 🌸 AfaanZahid-dev -->
 
 <div align="center">
 
-<img src="./assets/sparkle-header.svg" alt="sparkly pink header">
+<img src="./assets/afaan-sparkle-fall.gif" alt="pink glitter and falling petals">
 
-### ✧ ˚₊‧꒰ა 🌸 ໒꒱ ‧₊˚ ✧
+# 🌷 Hi, I'm Afaan ♡
 
-💻 **Computer Science Student** · 🌱 **Beginner Coder** · 🎀 **Professional Procrastinator**
+**Computer Science student · Python learner · beginner developer**
 
-*welcome to my little corner of github ♡*
-
-✨ · 🌷 · 🩷 · 🎀 · ✦ · 🌸 · ✧
+🌸 · ✨ · 🎀 · 🩷 · 🌷 · ✧
 
 </div>
 
 ---
 
-## 🌸 a little about me
+## 🌸 about me
 
-I'm a **Computer Science student** slowly figuring out this whole coding thing.
-
-I like making little things, learning how they work, breaking them by accident, and then being way too happy when I finally fix them. ♡
-
-- 🌱 Currently learning **Python & programming fundamentals**
-- 💻 Exploring **Git, GitHub & software development**
-- 🧩 I like figuring out how things work
-- 🎮 I play games when I'm not coding
-- 🎧 Music + late nights + random ideas = dangerous combination
-- 🐣 Still a beginner, but getting better one commit at a time
-
-> 🌷 *"Start small. Keep building. Let future me be impressed."*
-
----
+- 🐍 Learning **Python** and programming fundamentals
+- 💻 Learning **Git, GitHub and software development**
+- 🎮 Games are my usual break from coding
+- 🎧 Usually coding with music on
+- 🌙 Most of my random project ideas happen late at night
+- 🌱 Still learning — currently more curious than experienced
 
 <div align="center">
 
-<img src="./assets/pink-bow.svg" width="420" alt="pink bow">
+<img src="./assets/pink-bow.svg" width="360" alt="pink bow">
 
 </div>
 
-## ✨ my little toolbox
+## 🩷 things I'm learning
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-f7c6d9?style=for-the-badge&logo=python&logoColor=8f3d61)
-![Git](https://img.shields.io/badge/Git-f4a5c2?style=for-the-badge&logo=git&logoColor=7a3150)
-![GitHub](https://img.shields.io/badge/GitHub-f8d8e6?style=for-the-badge&logo=github&logoColor=5d2942)
-![VS Code](https://img.shields.io/badge/VS%20Code-f3b5cd?style=for-the-badge&logo=visual-studio-code&logoColor=66304b)
+![Python](https://img.shields.io/badge/Python-f6bfd5?style=for-the-badge&logo=python&logoColor=7d3153)
+![Git](https://img.shields.io/badge/Git-f2a9c7?style=for-the-badge&logo=git&logoColor=702844)
+![GitHub](https://img.shields.io/badge/GitHub-f8d7e5?style=for-the-badge&logo=github&logoColor=54243a)
+![VS Code](https://img.shields.io/badge/VS%20Code-f3c0d7?style=for-the-badge&logo=visual-studio-code&logoColor=66304b)
 
 </div>
 
----
-
 <div align="center">
 
-<img src="./assets/falling-petals.svg" alt="pink falling petals">
-
-</div>
-
-## 🌱 currently growing...
-
-<div align="center">
-
-| 🌷 | learning |
+| 🌷 | right now |
 |:---:|:---|
 | 🐍 | Python |
 | 🧠 | Programming fundamentals |
 | 🌸 | Git & GitHub |
-| 💻 | Building small projects |
-| 🦋 | Becoming a better developer |
+| 💻 | Small projects |
+| 🦋 | Problem solving |
 
 </div>
-
----
-
-## ✨ little goals
-
-- [ ] 🐍 Get really comfortable with Python
-- [ ] 🌱 Build some genuinely useful projects
-- [ ] 💻 Learn web development
-- [ ] 🧠 Get better at problem solving
-- [ ] 🌸 Fill this profile with things I've actually made
-- [ ] 🎀 Look back one day and see how far I've come
 
 ---
 
 <div align="center">
 
-<img src="./assets/flower-divider.svg" alt="floral divider">
+<img src="./assets/falling-petals.svg" alt="pink petals">
 
 </div>
 
-## 📌 my projects
+## 🎀 projects
 
-I don't have a giant portfolio yet — and honestly, that's okay.
+**🐣 Python experiments**  
+Small programs while learning.
 
-This little section is going to grow as I learn.
+**🌷 University work**  
+Projects from my CS journey.
 
-### 🌱 coming soon...
+**🩷 Random ideas**  
+Little things I make because I want to see if I can.
 
-**🐣 tiny Python projects**  
-little programs made while learning
-
-**🌷 university projects**  
-things I build while surviving CS
-
-**🩷 random experiments**  
-because sometimes you just have an idea and *have to try it*
+More will appear here as I build them.
 
 ---
 
-## 📊 my GitHub journey
+## 📊 GitHub
 
 <div align="center">
 
@@ -122,38 +87,25 @@ because sometimes you just have an idea and *have to try it*
 
 ---
 
-## 🎀 outside the code
+## 🌸 outside coding
 
-🌸 **games**  
-🎧 **music**  
-💻 **tech**  
-🌙 **late-night ideas**  
-🧋 **doing things instead of sleeping**  
-🌷 **flowers, obviously**
-
----
+🎮 games  
+🎧 music  
+💻 tech  
+🌙 late-night ideas  
+🌷 flowers  
+🧋 trying to sleep earlier and failing
 
 <div align="center">
 
-<img src="./assets/sparkle-header.svg" alt="sparkles and flowers">
+<img src="./assets/flower-divider.svg" alt="pink flower divider">
 
-### 🩷 a tiny reminder
+### ✨ currently
 
-> *you don't have to be good at something  
-> before you're allowed to enjoy learning it.*
+**learning → building → breaking things → fixing them**
 
-🌷
+🌸 · 🌷 · 🩷 · ✨ · 🎀 · ✧ · 🌸
 
-**learn → mess up → fix it → learn again**
-
-✨ · 🌸 · ✧ · 🌷 · 🩷 · ✦ · 🎀
-
-### thanks for visiting ♡
-
-*have a flower before you leave* 🌷
-
-🌸 🌷 🌸 🌷 🌸
-
-**— Afaan ♡**
+**thanks for stopping by ♡**
 
 </div>
