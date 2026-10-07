@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220">
+<rect width="800" height="220" rx="28" fill="#fff0f6"/>
+<g opacity=".9">
+<circle cx="110" cy="110" r="38" fill="#f8a8c4"/><circle cx="110" cy="55" r="38" fill="#ffd1e1"/><circle cx="110" cy="165" r="38" fill="#ffd1e1"/><circle cx="55" cy="110" r="38" fill="#ffd1e1"/><circle cx="165" cy="110" r="38" fill="#ffd1e1"/><circle cx="110" cy="110" r="22" fill="#f4b942"/>
+<circle cx="690" cy="110" r="38" fill="#f8a8c4"/><circle cx="690" cy="55" r="38" fill="#ffd1e1"/><circle cx="690" cy="165" r="38" fill="#ffd1e1"/><circle cx="635" cy="110" r="38" fill="#ffd1e1"/><circle cx="745" cy="110" r="38" fill="#ffd1e1"/><circle cx="690" cy="110" r="22" fill="#f4b942"/>
+</g>
+<path d="M210 145 C300 75 350 175 430 105 S570 75 610 145" fill="none" stroke="#e78fb3" stroke-width="5"/>
+<text x="400" y="105" text-anchor="middle" font-family="Georgia,serif" font-size="34" fill="#b84d7c">a little corner of the internet ♡</text>
+<text x="400" y="145" text-anchor="middle" font-family="Georgia,serif" font-size="19" fill="#d77fa5">🌷 made with code &amp; lots of flowers 🌷</text>
+</svg>
